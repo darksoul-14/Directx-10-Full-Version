@@ -239,3 +239,6 @@ This repository serves as the official landing page for DirectX 10. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of DirectX 10 today!**
+
+---
+**Last updated:** 2026-09-07 23:51:24 UTC

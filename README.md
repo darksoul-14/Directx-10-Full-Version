@@ -241,4 +241,4 @@ This repository serves as the official landing page for DirectX 10. The software
 **Get the most recent version of DirectX 10 today!**
 
 ---
-**Last updated:** 2026-09-08 16:54:59 UTC
+**Last updated:** 2026-09-08 19:39:28 UTC
